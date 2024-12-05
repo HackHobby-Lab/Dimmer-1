@@ -15,7 +15,7 @@
 #include "esp_event.h"
 #include "esp_log.h"
 #include "nvs_flash.h"
-
+#pins
 #define DIMMER_PIN 27           // GPIO pin for dimmer output
 #define ZERO_CROSS_PIN 35       // GPIO pin for zero-cross detection
 
